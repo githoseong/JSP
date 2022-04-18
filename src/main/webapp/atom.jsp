@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>이곳은 아톰입니다</h2>
+	<hr/>
 </body>
 </html>
